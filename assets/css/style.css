@@ -15,10 +15,19 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: rgb(195, 216, 236);
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+  padding: 0px;
+}
+
+#currentDay {
+  font-size: xx-large;
+}
+
+#currentTime {
+  font-size: xx-large;
 }
 
 .description{
